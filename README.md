@@ -16,8 +16,8 @@ This is an Order summary page for payment of a generic app/website.
 
 ### Links
 
-- Repository URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Repository URL: [Repository on Github](https://github.com/KevL97t/Order-summary)
+- Live Site URL: [Github pages](https://kevl97t.github.io/Order-summary/)
 
 ## My process
 
