@@ -40,7 +40,6 @@ I applied the "margin: 0 auto:" to make it easier to center
 my sections once I've chosen to give them less than 100% width, 
 asking the browser to help me center them automatically.
 
-To see how you can add code snippets, see below:
 
 ```css: 
 
