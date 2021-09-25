@@ -19,6 +19,10 @@ html{
 
 .hero-image{
     width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 400px;
     height: 160px;
     /* border-top-left-radius: 20px;
     border-top-right-radius: 20px; */
@@ -49,6 +53,8 @@ html{
     align-items: center;
     padding-left: 30px;
     padding-right: 30px;
+    max-width: 704px;
+    margin: 0 auto;
 }
 
 .main-content p{
@@ -69,6 +75,7 @@ html{
     padding-top: 15px;
     padding-left: 13px;
     padding-right: 13px;
+    max-width: 704px;
 }
 
 
@@ -133,3 +140,4 @@ html{
     font-weight: 900;
     color: hsl(224, 23%, 55%);
 }
+

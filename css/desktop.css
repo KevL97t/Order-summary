@@ -1,0 +1,13 @@
+html{
+ background-image: url("../images/pattern-background-desktop.svg");   
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+main{
+    margin: 0 auto;
+    margin-top: 10px;
+    border: hsl(224, 23%, 55%) solid 10px;
+    border-radius: 15px;
+    max-width: 900px;
+}
