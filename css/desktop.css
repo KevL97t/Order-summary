@@ -7,7 +7,7 @@ html{
 main{
     margin: 0 auto;
     margin-top: 10px;
-    border: hsl(224, 23%, 55%) solid 10px;
+    border: hsl(224, 23%, 55%) solid 5px;
     border-radius: 15px;
     max-width: 900px;
 }
