@@ -131,6 +131,7 @@ html{
     font-family: 'Red Hat Display', sans-serif;
     font-size: 1.5rem;
     box-shadow: 0 4px 13px rgba(89, 73, 30, 0.50);
+    cursor: pointer;
 }
 
 .main-buttons-container .cancel-button{
@@ -139,5 +140,6 @@ html{
     font-size: 1.5rem;
     font-weight: 900;
     color: hsl(224, 23%, 55%);
+    cursor: pointer;
 }
 
