@@ -3,3 +3,9 @@ main{
     margin-top: 10px;
     max-width: 900px;
 }
+
+html{
+    background-image: url("../images/pattern-background-desktop.svg");   
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
